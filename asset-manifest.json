@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://andrewsunshiny.github.io/csb-69x5j9/static/css/main.f1f250bd.chunk.css",
+    "main.js": "https://andrewsunshiny.github.io/csb-69x5j9/static/js/main.ac816be3.chunk.js",
+    "main.js.map": "https://andrewsunshiny.github.io/csb-69x5j9/static/js/main.ac816be3.chunk.js.map",
+    "runtime-main.js": "https://andrewsunshiny.github.io/csb-69x5j9/static/js/runtime-main.790da80e.js",
+    "runtime-main.js.map": "https://andrewsunshiny.github.io/csb-69x5j9/static/js/runtime-main.790da80e.js.map",
+    "static/js/2.4349a870.chunk.js": "https://andrewsunshiny.github.io/csb-69x5j9/static/js/2.4349a870.chunk.js",
+    "static/js/2.4349a870.chunk.js.map": "https://andrewsunshiny.github.io/csb-69x5j9/static/js/2.4349a870.chunk.js.map",
+    "index.html": "https://andrewsunshiny.github.io/csb-69x5j9/index.html",
+    "static/css/main.f1f250bd.chunk.css.map": "https://andrewsunshiny.github.io/csb-69x5j9/static/css/main.f1f250bd.chunk.css.map",
+    "static/js/2.4349a870.chunk.js.LICENSE.txt": "https://andrewsunshiny.github.io/csb-69x5j9/static/js/2.4349a870.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.790da80e.js",
+    "static/js/2.4349a870.chunk.js",
+    "static/css/main.f1f250bd.chunk.css",
+    "static/js/main.ac816be3.chunk.js"
+  ]
+}
